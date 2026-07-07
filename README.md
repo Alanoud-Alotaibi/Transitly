@@ -36,6 +36,11 @@ Transitly models a full public transit system, covering:
 - Input validation for station type (Metro/Bus), postal code format, and working hours format
 - Graceful SQL exception handling (duplicate keys, data-length violations, connection failures)
 
+## Challenges
+
+- Database Normalization: Managing complex referential integrity across multiple tables.
+- JDBC Error Handling: Ensuring the application remains stable by gracefully managing SQL exceptions and invalid user inputs.
+
 ## How to Run
 
 1. Set up a MariaDB instance and run `schema.sql` to create the database.
