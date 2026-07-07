@@ -2,7 +2,7 @@
 
 A relational database system for managing a metro/bus transit network stations, lines, vehicles, seats, tickets, trips, and customers built as a course project for **IS230: Introduction to Database Systems**, King Saud University, College of Computer and Information Sciences, Department of Information Systems.
 
-**Team:** Madhawi Alsanad ,  Ashwaq Almuhaysin ,  Alanoud Alotaibi ,  Lubna Alrashoud ,  Layan Saleh
+**Team:** Madhawi Alsanad ,  Ashwaq Almuhaysin ,  Alanoud Alotaibi ,  Lubna Alrashoud ,  Layan Alsaleh
 
 **Supervised by:** Dr. Lubna Yousef Alkhalil
 
