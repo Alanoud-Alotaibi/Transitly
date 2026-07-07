@@ -1,17 +1,17 @@
-# Transitly — Metro/Bus Transit Database System
+# Transitly Metro/Bus Transit Database System
 
-A relational database system for managing a metro/bus transit network — stations, lines, vehicles, seats, tickets, trips, and customers — built as a course project for **IS230: Introduction to Database Systems**, King Saud University, College of Computer and Information Sciences, Department of Information Systems.
+A relational database system for managing a metro/bus transit network stations, lines, vehicles, seats, tickets, trips, and customers built as a course project for **IS230: Introduction to Database Systems**, King Saud University, College of Computer and Information Sciences, Department of Information Systems.
 
-**Team:** Group 5 — Madhawi Alsanad, Ashwaq Almuhaysin, Alanoud Alotaibi, Lubna Alrashoud, Layan bin Saleh
+**Team:** Madhawi Alsanad, Ashwaq Almuhaysin, Alanoud Alotaibi, Lubna Alrashoud, Layan Saleh
 **Supervised by:** Dr. Lubna Yousef Alkhalil
 
 ## Overview
 
 Transitly models a full public transit system, covering:
-- **Stations & Lines** — metro/bus stations, the lines that connect them, and amenities per station
-- **Vehicles & Seats** — metro/bus vehicles with seat classes (first/normal) and availability status
-- **Tickets & Customers** — ticket types (2 hours, 3 days, 7 days, 30 days), pricing, and customer records
-- **Trips & Stops** — scheduled trips between stations, with multi-stop routing
+- **Stations & Lines** metro/bus stations, the lines that connect them, and amenities per station
+- **Vehicles & Seats** metro/bus vehicles with seat classes (first/normal) and availability status
+- **Tickets & Customers** ticket types (2 hours, 3 days, 7 days, 30 days), pricing, and customer records
+- **Trips & Stops** scheduled trips between stations, with multi-stop routing
 
 ## Project Phases
 
@@ -25,9 +25,9 @@ Transitly models a full public transit system, covering:
 
 ## Files
 
-- `schema.sql` — Full database schema (CREATE TABLE statements for all entities)
-- `MARIA.java` — Java console app connecting to the database via JDBC, with a menu to insert and display Station records
-- `Transitly_Full_Report.pdf` — Full project report (Phase 1 ER diagram + Phase 2 schema, SQL execution, and Java implementation with screenshots)
+- `schema.sql` Full database schema (CREATE TABLE statements for all entities)
+- `MARIA.java` Java console app connecting to the database via JDBC, with a menu to insert and display Station records
+- `Transitly_Full_Report.pdf` Full project report (Phase 1 ER diagram + Phase 2 schema, SQL execution, and Java implementation with screenshots)
 
 ## Key Features
 
